@@ -52,7 +52,7 @@ SQL: Manages data storage, retrieval, and relationships within a relational data
 Clone the Repository:
 
 ```bash
-git clone https://github.com/your-username/PCWizard.git
+git clone https://github.com/MuhannadAZ/PCWizard.git
 ```
 📂 Import the SQL file located in the SQL directory into your database.
 🛠️ Update the database configuration in the backend PHP files to match your local environment.
