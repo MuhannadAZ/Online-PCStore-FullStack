@@ -19,7 +19,7 @@ JavaScript (JS): Adds interactivity and dynamic features for an enhanced user ex
 ## ⚙️ Backend
 PHP: Powers the server-side logic and handles data processing.
 SQL: Manages data storage, retrieval, and relationships within a relational database.  
-## Photos
+## 📷 Photos
 
 ## login
 ![image](https://github.com/user-attachments/assets/745e249e-1646-4a28-b4ce-09f7997a974a)
