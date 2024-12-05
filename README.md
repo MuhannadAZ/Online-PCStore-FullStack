@@ -20,8 +20,24 @@ JavaScript (JS): Adds interactivity and dynamic features for an enhanced user ex
 PHP: Powers the server-side logic and handles data processing.
 SQL: Manages data storage, retrieval, and relationships within a relational database.  
 ## Photos
+
+## login
+![image](https://github.com/user-attachments/assets/745e249e-1646-4a28-b4ce-09f7997a974a)
+
 ## home  
 ![image](https://github.com/user-attachments/assets/a17a1bbd-f302-4967-ab0c-7c5335461fa3)
+
+## navigation 
+![image](https://github.com/user-attachments/assets/3512d420-ef5b-4222-b45d-9d498949493e)
+
+## products
+![image](https://github.com/user-attachments/assets/a0071c09-554f-4ef9-a68b-6eb64c5593a7)
+
+## Dashboard
+![image](https://github.com/user-attachments/assets/28a8d91f-0e3e-4462-8c3c-05673f3f2a80)
+
+## edit item
+![image](https://github.com/user-attachments/assets/aada0c0f-dde5-4db6-a423-b9299c078005)
 
 ## reviews 
 ![image](https://github.com/user-attachments/assets/db562337-01f2-4b3a-a0f7-b57ff26f1cb0)
@@ -29,6 +45,8 @@ SQL: Manages data storage, retrieval, and relationships within a relational data
 ## about 
 ![image](https://github.com/user-attachments/assets/e18b7811-0b32-4c1f-afaa-60b1db0236a7)
 
+## error
+![image](https://github.com/user-attachments/assets/141477f5-ec52-42eb-88ca-e5808b31778e)
 
 ## 🚀 How to Run
 Clone the Repository:
