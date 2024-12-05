@@ -22,7 +22,7 @@ SQL: Manages data storage, retrieval, and relationships within a relational data
 ## 📷 Photos
 
 ## login
-![image](https://github.com/user-attachments/assets/745e249e-1646-4a28-b4ce-09f7997a974a)
+![image](https://github.com/user-attachments/assets/20f493fd-2a38-4b35-ac22-264081ad98cd)
 
 ## home  
 ![image](https://github.com/user-attachments/assets/a17a1bbd-f302-4967-ab0c-7c5335461fa3)
